@@ -1,0 +1,20 @@
+#div1{
+	background-color: rgb(0,256,0);
+	width: 200px;
+	height: 100px;
+}
+#div2{
+	background-color: rgb(0,256,0,0,1);
+	width: 200px;
+	height: 100px;
+}
+#div3{
+	background-color: rgb(300,50%,50%);
+	width: 200px;
+	height: 100px;
+}
+#div4{
+	background-color: rgb(300,50%,50%,50%);
+	width: 200px;
+	height: 100px;
+}

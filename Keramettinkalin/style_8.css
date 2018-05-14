@@ -1,0 +1,21 @@
+body{
+	color: #0000dd;
+}
+h1{
+	color: #00dd00;
+}
+.pembe{
+	color: pink;
+	text-align: left;
+}
+.mavi{
+	color: blue;
+	text-align: right;
+}
+h1{
+	text-align: center;
+	text-transform: capitalize;
+}
+p{
+	text-align: right;
+}

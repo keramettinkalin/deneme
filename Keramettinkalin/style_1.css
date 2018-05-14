@@ -1,0 +1,20 @@
+#red-div{
+	background-color: #ff0000;
+	width: 200px;
+	height: 100px;
+}
+#green-div{
+	background-color: #00ff00;
+	width: 200px;
+	height: 100px;
+}
+#blue-div{
+	background-color: #0000ff;
+	width: 200px;
+	height: 100px;
+}
+#rdiv2{
+	background-color: #ffffff;
+	width: 200px;
+	height: 100px;
+}
